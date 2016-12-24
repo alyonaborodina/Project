@@ -20,14 +20,14 @@ namespace Проект
         private void button1_Click(object sender, EventArgs e)
         {
             double a = Convert.ToDouble(textBox1.Text);
-            a = a * a;
+            a = a + a;
             textBox1.Text = Convert.ToString(a);
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
             double a = Convert.ToDouble(textBox2.Text);
-            a = a * a*a;
+            a = a + a * a;
             textBox2.Text = Convert.ToString(a);
         }
     }
