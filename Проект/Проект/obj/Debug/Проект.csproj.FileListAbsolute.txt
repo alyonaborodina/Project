@@ -1,0 +1,2 @@
+C:\Users\len\Desktop\Проект\Проект\bin\Debug\Проект.exe.config
+C:\Users\len\Source\Repos\Project\Проект\Проект\bin\Debug\Проект.exe.config
